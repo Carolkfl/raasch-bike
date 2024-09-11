@@ -1,4 +1,4 @@
-<h1 align="center"> Site Responsivo Raach Bike </h1> 
+<h1 align="center"> Site Responsivo Raasch Bike </h1> 
 
 Foi desenvolvido um site responsivo utilizando as tecnologias HTLM, CSS e JAVASCRIPT, 
 nele constará a apresentação do comércio, 
